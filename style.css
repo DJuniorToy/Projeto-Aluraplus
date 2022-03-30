@@ -82,6 +82,13 @@ body {
     width: 80%;    
 }
 
+.descricao__titulos {
+    font-size: 48px;
+   font-weight: 700;
+   color: var(--branco-principal);
+   margin: 0.1em; 
+}
+
 .descricao__titulo {
    font-size: 48px;
    font-weight: 700;
